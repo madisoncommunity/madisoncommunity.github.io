@@ -25,7 +25,7 @@ Examples of behavior that contributes to creating a positive environment include
 The following behaviors are considered harassment and are unacceptable within our community:
 
 * **Unsolicited Direct Messages:** Messages that come from nowhere to other users of the Slack are frowned upon.
-* **Spamming and Trolling:** Repeatedly posting off-topic messages, advertisements (unless in a designated channel, if applicable), or intentionally disruptive content.
+* **Spamming and Trolling:** Repeatedly posting off-topic messages, advertisements (unless in #shameless-plugs), or intentionally disruptive content.
 * **Soliciting or Promoting Illicit or Deceptive Activities:** Attempting to encourage or recruit members to perform illegal, unethical, or deceptive activities. This includes, but is not limited to, proposals such as impersonating an employee for another individual or company, installing software (like VPNs) for deceptive purposes to mislead organizations, or engaging in fraudulent schemes.
 * **Incitement of Unacceptable Behavior:** Advocating for, or encouraging, any of the above behavior.
 * **Harassment:** Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion. This also includes unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
